@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/sir0liveira/copiar-restaurar_permissoes_acl?style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/sir0liveira/samba4-ad?style=flat-square) 
+
+
 # Copiar permissões ACL de um Servidor de Arquivos para outro.  
 
 #### Recentimento precisei migrar um Servidor de Arquivos para um servidor Controlador de Domínio, sei que não é o ideal, porém precisei!!! :satisfied:
